@@ -52,9 +52,9 @@ What's nice about Python is there isn't necessarily a lot of huge syntax to lear
 
 Python is an interpreted language, so you will need a runtime in which Python can execute. I'm not going to walk through how to do the installation, I'm assuming that you know how to install something onto your particular operating system of choice.
 
-**Let's get into some coding**
+## Let's get into some coding
 
-**print:**
+## Print:
 
 We're going to start off with the print statement, which is typically where we start with most programming languages.
 
